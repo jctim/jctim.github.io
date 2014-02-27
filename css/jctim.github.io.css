@@ -1,0 +1,16 @@
+.action-download {
+  padding-left: 60px;
+  padding-right: 30px;	
+}
+#download-zip {
+  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
+}
+#download-widget {
+  background: transparent url(../images/widget-icon.png) 12px 50% no-repeat;
+}
+#download-tar-gz {
+  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
+}
+#view-on-github {
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
